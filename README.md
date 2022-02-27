@@ -1,6 +1,8 @@
 ## Hi there 👋, my name is Patiphan Srichai
 #### I am Software engineering student
 
+- 🌱 I’m currently learning data analytics 
+- ⚡ Fun fact: **Shrek** is one of the greatest movie that ever made. 
 
 ### 🚀 Languages and Tools:    
 
@@ -27,9 +29,6 @@
 ![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![image](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) -->
-
-- 🌱 I’m currently learning data analytics 
-- ⚡ Fun fact: **Shrek** is one of the greatest movie that ever made. 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=patiphan2000&show_icons=true)  
