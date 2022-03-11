@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Patiphan Srichai
 #### I am Software engineering student
 
-- 🌱 I’m currently learning data analytics 
+- 🌱 I’m currently learning ***machine learning***
 - ⚡ Fun fact: **Shrek** is one of the greatest movie that ever made. 
 
 ### 🚀 Languages and Tools:    
